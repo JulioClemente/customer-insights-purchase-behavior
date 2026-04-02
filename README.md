@@ -33,5 +33,4 @@ import matplotlib.pyplot as plt
 2. Target marketing campaigns to Middle-income customers to increase their share and overall revenue.
 3. Focus on enhancing online and mixed purchase channels, while also improving physical store experience where needed.
 
-```
 
